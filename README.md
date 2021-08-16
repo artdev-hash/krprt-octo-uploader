@@ -16,6 +16,8 @@ It is for uploading back-up files from local drive to ftp drive..The purpose is 
 
 ### Executing the Command
 
+* See the Full Read Me file to configure the command
+
 * Modify / Edit the specifics of the command file...
 
 * Test if working and when done....
@@ -82,4 +84,4 @@ It is to close or bye to close connection
 
 ## Note :
 
-I have used this to my ftp backup.. you can try it too at your own risk.. thank you,,
+I have used this to my ftp backup.. you can try it too at your own risk.. thank you,,:rocket:
