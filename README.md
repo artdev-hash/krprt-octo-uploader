@@ -1,4 +1,4 @@
-<img src="./src/assets/img/krprt-octo-upload.png" width="100%">
+<img src="./src/assets/img/krprt-octo.png" align="center">
 
 # krprt-octo-uploader
 
