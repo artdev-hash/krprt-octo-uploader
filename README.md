@@ -1,3 +1,5 @@
+<img src="./src/assets/img/krprt-octo-uploader.png" width="100%">
+
 # krprt-octo-uploader
 
 krprt-octo-uploader is a file uploader
