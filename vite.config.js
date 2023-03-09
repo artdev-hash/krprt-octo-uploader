@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [vue()],
   resolve: {
     alias: {
-      '@': fileURLToPath(new URL('./krprt-octo-uploader', import.meta.url))
+      '@': fileURLToPath(new URL('./krprt-octo-uploader/', import.meta.url))
     }
   }
 })
